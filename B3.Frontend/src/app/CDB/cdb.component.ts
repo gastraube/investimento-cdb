@@ -21,10 +21,22 @@ export class CDBComponent implements OnInit{
   };
 
   getCDB() {
-    debugger
+    this.grossValue = 0;
+    this.netValue = 0;
+
+    if(this.months <= 0){
+      alert('O valor de meses não pode ser menor ou igual a 0')
+      return;
+    }
+
+    if(this.grossValue <= 0){
+      alert('O valor não pode ser menor ou igual a 0')
+      return;
+    }
+
     this._CDBService.getCDB(this.value, this.months).subscribe((res: any) => {
       this.cdb = JSON.parse(res)
-      console.log(this.cdb);
+
       this.grossValue = this.cdb.grossValue;
       this.netValue = this.cdb.netValue;
     });
