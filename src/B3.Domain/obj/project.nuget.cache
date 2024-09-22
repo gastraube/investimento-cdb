@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ubOiB6uHbTU=",
+  "success": true,
+  "projectFilePath": "C:\\repos\\teste-b3\\src\\B3.Domain\\B3.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel Straube\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Straube\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

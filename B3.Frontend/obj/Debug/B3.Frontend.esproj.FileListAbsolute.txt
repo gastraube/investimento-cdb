@@ -1,0 +1,1 @@
+C:\repos\teste-b3\B3.Frontend\obj\Debug\B3.Frontend.esproj.CoreCompileInputs.cache

@@ -1,0 +1,25 @@
+C:\projetos\WebDDD\src\Contatos.Infra\bin\Debug\netstandard2.0\Contatos.Infra.deps.json
+C:\projetos\WebDDD\src\Contatos.Infra\bin\Debug\netstandard2.0\Contatos.Infra.dll
+C:\projetos\WebDDD\src\Contatos.Infra\bin\Debug\netstandard2.0\Contatos.Infra.pdb
+C:\projetos\WebDDD\src\Contatos.Infra\bin\Debug\netstandard2.0\Contatos.Domain.dll
+C:\projetos\WebDDD\src\Contatos.Infra\bin\Debug\netstandard2.0\Contatos.Domain.pdb
+C:\projetos\WebDDD\src\Contatos.Infra\obj\Debug\netstandard2.0\Contatos.Infra.csprojAssemblyReference.cache
+C:\projetos\WebDDD\src\Contatos.Infra\obj\Debug\netstandard2.0\Contatos.Infra.AssemblyInfoInputs.cache
+C:\projetos\WebDDD\src\Contatos.Infra\obj\Debug\netstandard2.0\Contatos.Infra.AssemblyInfo.cs
+C:\projetos\WebDDD\src\Contatos.Infra\obj\Debug\netstandard2.0\Contatos.Infra.csproj.CoreCompileInputs.cache
+C:\projetos\WebDDD\src\Contatos.Infra\obj\Debug\netstandard2.0\Contatos.Infra.csproj.CopyComplete
+C:\projetos\WebDDD\src\Contatos.Infra\obj\Debug\netstandard2.0\Contatos.Infra.dll
+C:\projetos\WebDDD\src\Contatos.Infra\obj\Debug\netstandard2.0\Contatos.Infra.pdb
+C:\Users\Gabriel Straube\Downloads\WebDDD\WebDDD\src\Contatos.Infra\bin\Debug\netstandard2.0\Contatos.Infra.deps.json
+C:\Users\Gabriel Straube\Downloads\WebDDD\WebDDD\src\Contatos.Infra\bin\Debug\netstandard2.0\Contatos.Infra.dll
+C:\Users\Gabriel Straube\Downloads\WebDDD\WebDDD\src\Contatos.Infra\bin\Debug\netstandard2.0\Contatos.Infra.pdb
+C:\Users\Gabriel Straube\Downloads\WebDDD\WebDDD\src\Contatos.Infra\bin\Debug\netstandard2.0\Contatos.Domain.dll
+C:\Users\Gabriel Straube\Downloads\WebDDD\WebDDD\src\Contatos.Infra\bin\Debug\netstandard2.0\Contatos.Domain.pdb
+C:\Users\Gabriel Straube\Downloads\WebDDD\WebDDD\src\Contatos.Infra\obj\Debug\netstandard2.0\Contatos.Infra.csproj.AssemblyReference.cache
+C:\Users\Gabriel Straube\Downloads\WebDDD\WebDDD\src\Contatos.Infra\obj\Debug\netstandard2.0\Contatos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Straube\Downloads\WebDDD\WebDDD\src\Contatos.Infra\obj\Debug\netstandard2.0\Contatos.Infra.AssemblyInfoInputs.cache
+C:\Users\Gabriel Straube\Downloads\WebDDD\WebDDD\src\Contatos.Infra\obj\Debug\netstandard2.0\Contatos.Infra.AssemblyInfo.cs
+C:\Users\Gabriel Straube\Downloads\WebDDD\WebDDD\src\Contatos.Infra\obj\Debug\netstandard2.0\Contatos.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Straube\Downloads\WebDDD\WebDDD\src\Contatos.Infra\obj\Debug\netstandard2.0\Contatos.B0CFA3C5.Up2Date
+C:\Users\Gabriel Straube\Downloads\WebDDD\WebDDD\src\Contatos.Infra\obj\Debug\netstandard2.0\Contatos.Infra.dll
+C:\Users\Gabriel Straube\Downloads\WebDDD\WebDDD\src\Contatos.Infra\obj\Debug\netstandard2.0\Contatos.Infra.pdb

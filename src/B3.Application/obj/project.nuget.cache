@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "k+9X5mu0qUs=",
+  "success": true,
+  "projectFilePath": "C:\\repos\\teste-b3\\src\\B3.Application\\B3.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel Straube\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Gabriel Straube\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Gabriel Straube\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

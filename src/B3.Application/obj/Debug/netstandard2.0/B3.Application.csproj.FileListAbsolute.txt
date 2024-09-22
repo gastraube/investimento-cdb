@@ -1,0 +1,13 @@
+C:\repos\teste-b3\src\B3.Application\bin\Debug\netstandard2.0\B3.Application.deps.json
+C:\repos\teste-b3\src\B3.Application\bin\Debug\netstandard2.0\B3.Application.dll
+C:\repos\teste-b3\src\B3.Application\bin\Debug\netstandard2.0\B3.Application.pdb
+C:\repos\teste-b3\src\B3.Application\bin\Debug\netstandard2.0\B3.Domain.dll
+C:\repos\teste-b3\src\B3.Application\bin\Debug\netstandard2.0\B3.Domain.pdb
+C:\repos\teste-b3\src\B3.Application\obj\Debug\netstandard2.0\B3.Application.csproj.AssemblyReference.cache
+C:\repos\teste-b3\src\B3.Application\obj\Debug\netstandard2.0\B3.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\teste-b3\src\B3.Application\obj\Debug\netstandard2.0\B3.Application.AssemblyInfoInputs.cache
+C:\repos\teste-b3\src\B3.Application\obj\Debug\netstandard2.0\B3.Application.AssemblyInfo.cs
+C:\repos\teste-b3\src\B3.Application\obj\Debug\netstandard2.0\B3.Application.csproj.CoreCompileInputs.cache
+C:\repos\teste-b3\src\B3.Application\obj\Debug\netstandard2.0\B3.Appli.EB021A55.Up2Date
+C:\repos\teste-b3\src\B3.Application\obj\Debug\netstandard2.0\B3.Application.dll
+C:\repos\teste-b3\src\B3.Application\obj\Debug\netstandard2.0\B3.Application.pdb

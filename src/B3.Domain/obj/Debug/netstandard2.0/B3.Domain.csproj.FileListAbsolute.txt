@@ -1,0 +1,10 @@
+C:\repos\teste-b3\src\B3.Domain\bin\Debug\netstandard2.0\B3.Domain.deps.json
+C:\repos\teste-b3\src\B3.Domain\bin\Debug\netstandard2.0\B3.Domain.dll
+C:\repos\teste-b3\src\B3.Domain\bin\Debug\netstandard2.0\B3.Domain.pdb
+C:\repos\teste-b3\src\B3.Domain\obj\Debug\netstandard2.0\B3.Domain.csproj.AssemblyReference.cache
+C:\repos\teste-b3\src\B3.Domain\obj\Debug\netstandard2.0\B3.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\teste-b3\src\B3.Domain\obj\Debug\netstandard2.0\B3.Domain.AssemblyInfoInputs.cache
+C:\repos\teste-b3\src\B3.Domain\obj\Debug\netstandard2.0\B3.Domain.AssemblyInfo.cs
+C:\repos\teste-b3\src\B3.Domain\obj\Debug\netstandard2.0\B3.Domain.csproj.CoreCompileInputs.cache
+C:\repos\teste-b3\src\B3.Domain\obj\Debug\netstandard2.0\B3.Domain.dll
+C:\repos\teste-b3\src\B3.Domain\obj\Debug\netstandard2.0\B3.Domain.pdb
